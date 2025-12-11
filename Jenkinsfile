@@ -20,7 +20,7 @@ pipeline {
                 //sh 'python Test.py' 
 
                 // For Windows agents, uncomment and use 'bat'
-                 bat 'python Test.py' 
+                 bat 'python Test.py addition' 
             }
         }
     }

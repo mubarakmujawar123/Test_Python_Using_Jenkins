@@ -8,4 +8,5 @@ def add_two_numbers(num1, num2):
     return result
 
 # Call the function with your numbers
-add_two_numbers(20, 10)
+def addition():
+    add_two_numbers(20, 10)
