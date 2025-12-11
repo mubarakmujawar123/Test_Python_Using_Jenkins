@@ -17,7 +17,7 @@ pipeline {
                 
                 // Use the relative path to your script within the repository
                 // For Linux/macOS agents
-                sh 'python3 addition.py' 
+                sh 'python3 Test.py' 
 
                 // For Windows agents, uncomment and use 'bat'
                 // bat 'python addition.py' 
