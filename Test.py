@@ -9,4 +9,5 @@ def add_two_numbers(num1, num2):
 
 # Call the function with your numbers
 def addition():
+    print(f"In addition")
     add_two_numbers(20, 10)
